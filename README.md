@@ -1,1 +1,0 @@
-# capynvim.github.io
